@@ -1,25 +1,24 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <img src="https://media1.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif?cid=768b1ad6p9y974qmtk4vsd5921e6zkxpaw7pbztp9gah4b5v&rid=giphy.gif&ct=g" width="200" />
+    <h1 align="center">Hola 👋, Soy Santiago</h1>
+    <h3 align="center">Desarrollador JavaScript Full Stack </h3>
 </div>
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
+    <a href="https://santiagosegurado.github.io/portafolio-react/" target="_blank">
+        <img src="https://img.shields.io/website?style=for-the-badge&up_message=portafolio&url=https%3A%2F%2Fsantiagosegurado.github.io%2Fportafolio-react%2F"
+            alt="Portfolio Badge" />
     </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
+    <a href="https://www.linkedin.com/in/santiago-segurado-frontend/" target="_blank">
+        <img src="https://img.shields.io/website?down_message=Perfil&label=Linked%20In&style=for-the-badge&up_message=Perfil&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsantiago-segurado-frontend%2F"
+            alt="Linked In Badge" />
     </a>
     <a href="https://twitter.com/CarlosYouDevs" target="_blank">
         <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
+    
 </div>
 
 ---

@@ -41,7 +41,7 @@ const santiago = {
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santiagosegurado&theme=dark&locale=es)](https://git.io/streak-stats)
 

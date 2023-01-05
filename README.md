@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre Mi :
 
-- 💬 Pregunrame sobre **React.js, JavaScript, Node**
+- 💬 Preguntame sobre **React.js, JavaScript, Node**
 
 - 📫 Contactame a **santisegurado1@gmail.com**
 
@@ -34,7 +34,6 @@
 const santiago = {
   lenguajes: [Javascript, Typescript, HTML, CSS, NoSQL],
   herraminetas: [React, Redux, Node, ReactNative],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   desafio: "Estoy desarrollando una aplicacion movil de Chat Full Stack"
 }
 ```
